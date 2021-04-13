@@ -1,0 +1,19 @@
+{
+    "name": "Lalichain",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "LALI",
+        "/category/asset_value_tracking/token/symbol": "LAL",
+        "/category/asset_value_tracking/token/decimals": "9",
+        "/category/asset_value_tracking/token/supply": "100000",
+        "/category/collection/entity": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder"
+    }
+}
